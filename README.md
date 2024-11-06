@@ -1,2 +1,2 @@
 # reinforcement-learning
-Official repository for submission of Continuous Internal Assessments 1 and 2. 
+Official repository for the submission of Continuous Internal Assessments 1 and 2. 
